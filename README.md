@@ -177,6 +177,36 @@
   - Chapter notes and history
   - Exercises
 
+### II Lowerbounds for Concrete Computational Models
+
+- **11. Decision Trees**
+  - 11.1 Certificate Complexity
+  - 11.2 Randomized Decision Trees 
+  - 11.3 Lowerbounds on Randomized Complexity
+  - 11.4 Some techniques for decision tree lowerbounds
+  - 11.5 Comparison trees and sorting lowerbounds
+  - 11.6 Yao’s MinMax Lemma
+  - Exercises
+  - Chapter notes and history
+- **12. Communication Complexity**
+  - 12.1 Definition
+  - 12.2 Lowerbound methods
+    - 12.2.1 Fooling set
+    - 12.2.2 The tiling lowerbound
+    - 12.2.3 Rank lowerbound
+    - 12.2.4 Discrepancy
+      - A technique for upperbounding the discrepancy
+    - 12.2.5 Comparison of the lowerbound methods
+  - 12.3 Multiparty communication complexity
+    - Discrepancy-based lowerbound
+  - 12.4 Probabilistic Communication Complexity
+  - 12.5 Overview of other communication models
+  - 12.6 Applications of communication complexity
+  - Exercises
+  - Chapter notes and history
+
+
+
 
 
 

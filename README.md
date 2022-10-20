@@ -119,7 +119,29 @@
     - 7.B.1 The Algebraic Definition
     - 7.B.2 Combinatorial expansion and existence of expanders
     - 7.B.3 Error reduction using expanders
-
+- 8. Interactive proofs p8.1 (147)
+8.1 Warmup: Interactive proofs with a deterministic verifier . . . . . . . . . . . . . . . . p8.1 (147)
+8.2 The class IP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.3 (149)
+8.3 Proving that graphs are not isomorphic. . . . . . . . . . . . . . . . . . . . . . . . . . p8.4 (150)
+8.4 Public coins and AM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.5 (151)
+8.4.1 Set Lower Bound Protocol. . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.6 (152)
+Tool: Pairwise independent hash functions. . . . . . . . . . . . . . . . . . . . p8.7 (153)
+The lower-bound protocol. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.9 (155)
+8.4.2 Some properties of IP and AM . . . . . . . . . . . . . . . . . . . . . . . . . . p8.10 (156)
+8.4.3 Can GI be NP-complete? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.11 (157)
+8.5 IP = PSPACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.11 (157)
+8.5.1 Arithmetization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.12 (158)
+8.5.2 Interactive protocol for #SATD . . . . . . . . . . . . . . . . . . . . . . . . . . p8.12 (158)
+Sumcheck protocol. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.13 (159)
+8.5.3 Protocol for TQBF: proof of Theorem 8.17 . . . . . . . . . . . . . . . . . . . p8.14 (160)
+8.6 The power of the prover . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.15 (161)
+8.7 Program Checking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.16 (162)
+8.7.1 Languages that have checkers . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.17 (163)
+8.8 Multiprover interactive proofs (MIP) . . . . . . . . . . . . . . . . . . . . . . . . . . p8.18 (164)
+Chapter notes and history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.19 (165)
+Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.20 (166)
+8.A Interactive proof for the Permanent . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.21 (167)
+8.A.1 The protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.23 (169)
 
 
 

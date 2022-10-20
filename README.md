@@ -119,29 +119,53 @@
     - 7.B.1 The Algebraic Definition
     - 7.B.2 Combinatorial expansion and existence of expanders
     - 7.B.3 Error reduction using expanders
-- 8. Interactive proofs p8.1 (147)
-8.1 Warmup: Interactive proofs with a deterministic verifier . . . . . . . . . . . . . . . . p8.1 (147)
-8.2 The class IP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.3 (149)
-8.3 Proving that graphs are not isomorphic. . . . . . . . . . . . . . . . . . . . . . . . . . p8.4 (150)
-8.4 Public coins and AM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.5 (151)
-8.4.1 Set Lower Bound Protocol. . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.6 (152)
-Tool: Pairwise independent hash functions. . . . . . . . . . . . . . . . . . . . p8.7 (153)
-The lower-bound protocol. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.9 (155)
-8.4.2 Some properties of IP and AM . . . . . . . . . . . . . . . . . . . . . . . . . . p8.10 (156)
-8.4.3 Can GI be NP-complete? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.11 (157)
-8.5 IP = PSPACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.11 (157)
-8.5.1 Arithmetization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.12 (158)
-8.5.2 Interactive protocol for #SATD . . . . . . . . . . . . . . . . . . . . . . . . . . p8.12 (158)
-Sumcheck protocol. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.13 (159)
-8.5.3 Protocol for TQBF: proof of Theorem 8.17 . . . . . . . . . . . . . . . . . . . p8.14 (160)
-8.6 The power of the prover . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.15 (161)
-8.7 Program Checking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.16 (162)
-8.7.1 Languages that have checkers . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.17 (163)
-8.8 Multiprover interactive proofs (MIP) . . . . . . . . . . . . . . . . . . . . . . . . . . p8.18 (164)
-Chapter notes and history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.19 (165)
-Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.20 (166)
-8.A Interactive proof for the Permanent . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.21 (167)
-8.A.1 The protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . p8.23 (169)
+- **8. Interactive proofs**
+  - 8.1 Warmup: Interactive proofs with a deterministic verifier
+  - 8.2 The class **IP**
+  - 8.3 Proving that graphs are not isomorphic
+  - 8.4 Public coins and **AM**
+    - 8.4.1 Set Lower Bound Protocol
+      - Tool: Pairwise independent hash functions
+      - The lower-bound protocol
+    - 8.4.2 Some properties of **IP** and **AM**
+    - 8.4.3 Can GI be **NP**-complete?
+  - 8.5 **IP** = **PSPACE**
+    - 8.5.1 Arithmetization
+    - 8.5.2 Interactive protocol for #SATD
+      - Sumcheck protocol
+    - 8.5.3 Protocol for TQBF: proof of Theorem 8.17
+  - 8.6 The power of the prover
+  - 8.7 Program Checking
+    - 8.7.1 Languages that have checkers
+  - 8.8 Multiprover interactive proofs (**MIP**)
+  - Chapter notes and history
+  - Exercises
+  - 8.A Interactive proof for the Permanent
+    - 8.A.1 The protocol
+- **9. Complexity of counting**
+  - 9.1 The class #**P**
+    - 9.1.1 The class **PP**: decision-problem analog for #**P**
+  - 9.2 #**P** completeness
+    - 9.2.1 Permanent and Valiant’s Theorem
+    - 9.2.2 Approximate solutions to **#P** problems
+  - 9.3 Toda’s Theorem: **PH** ⊆ **P**^#SAT
+    - 9.3.1 The class ⊕**P** and hardness of satisfiability with unique solutions
+      - Proof of Theorem 9.15
+    - 9.3.2 Step 1: Randomized reduction from **PH** to ⊕**P**
+    - 9.3.3 Step 2: Making the reduction deterministic
+  - 9.4 Open Problems
+  - Chapter notes and history
+  - Exercises
+
+
+
+
+
+
+
+
+
+
 
 
 

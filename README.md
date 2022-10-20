@@ -156,7 +156,26 @@
   - 9.4 Open Problems
   - Chapter notes and history
   - Exercises
-
+- **10. Cryptography**
+  - 10.1 Hard-on-average problems and one-way functions
+    - 10.1.1 Discussion of the definition of one-way function
+    - 10.1.2 Random self-reducibility
+  - 10.2 What is a random-enough string?
+    - 10.2.1 Blum-Micali and Yao definitions
+    - 10.2.2 Equivalence of the two definitions
+  - 10.3 One-way functions and pseudorandom number generators
+    - 10.3.1 Goldreich-Levin hardcore bit
+    - 10.3.2 Pseudorandom number generation
+  - 10.4 Applications
+    - 10.4.1 Pseudorandom functions
+    - 10.4.2 Private-key encryption: definition of security
+    - 10.4.3 Derandomization
+    - 10.4.4 Tossing coins over the phone and bit commitment
+    - 10.4.5 Secure multiparty computations
+    - 10.4.6 Lowerbounds for machine learning
+  - 10.5 Recent developments
+  - Chapter notes and history
+  - Exercises
 
 
 
